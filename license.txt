@@ -1,0 +1,19 @@
+You can download for free our bootstrap theme and you can use theme on your non-commercial and commercial projects.
+
+How I can use this free bootstrap themes?
+
+1. You can use this theme in your commercial and non-commercial projects.
+
+
+What I can’t do with free bootstrap themes?
+
+1. You can’t remove links from footer.
+2. You can’t remove author information from CSS file.
+3. You can’t sell this theme.
+
+IMPORTANT! 
+
+You have to keep this text and url in footer <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> Designed by BootstrapMaster
+
+If you want to remove this text & url you have to pay $99, contact with us to get our paypal account : team@bootstrapmaster.com
+
